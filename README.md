@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mlogan1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning front end web development. 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I’m currently learning front end web development. 
 
 <!---
 mlogan1/mlogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
