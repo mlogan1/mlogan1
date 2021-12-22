@@ -1,4 +1,4 @@
-Hello, I'm Mel. A junior front end developer based in the Seattle metro.
+Hello, I'm Mel. A front end developer and UX designer.
 
 <!---
 mlogan1/mlogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
