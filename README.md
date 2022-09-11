@@ -1,4 +1,4 @@
-Hello, I'm Mel. A front end developer and UX designer.
+Hello, I'm Mel. A developer and ethical hacker.
 
 <!---
 mlogan1/mlogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
