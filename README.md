@@ -1,4 +1,4 @@
-Hello, I'm Mel. A developer and ethical hacker.
+Hello, I'm Mel. A mobile app developer!
 
 <!---
 mlogan1/mlogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
