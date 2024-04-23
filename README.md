@@ -1,4 +1,4 @@
-Hello, I'm Mel. A mobile app developer!
+Yo!, I'm Mel. A front-end and mobile app developer. 
 
 <!---
 mlogan1/mlogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
