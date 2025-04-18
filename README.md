@@ -1,4 +1,4 @@
-Yo!, I'm Mel. A front-end and mobile app developer. 
+Hello World! I'm Mel, a Unity game dev. 
 
 <!---
 mlogan1/mlogan1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
